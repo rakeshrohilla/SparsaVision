@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589230960576",
+    "project_id": "sparsa-vision",
+    "storage_bucket": "sparsa-vision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589230960576:android:a2eee8d09042f424e4e225",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZlz1xgZmbjwYLCc6W2-R_cKdHw7FU0HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
